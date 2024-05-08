@@ -17,3 +17,7 @@ Each version of EuroSound is compatible with some Eurocom games, these are the c
 ### EuroSound 3.70 ###
 - [x] Robots 2005 (SFX v5)
 - [x] Predator: Concrete Jungle (SFX v5)
+
+### EuroSound 3.80 ###
+- [x] Batman Begins (SFX v6)
+- [x] Ice Age 2: The Meltdown (SFX v6)
